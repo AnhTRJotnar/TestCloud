@@ -8,7 +8,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "node main.js",
+    "start": "Node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
